@@ -1,0 +1,57 @@
+ Application Starting Up
+ You requested the Index Page.
+ We caught this exception in the Index Get call.
+System.Exception: This is our demo exception.
+   at SerilogDemoWithSeq.Pages.IndexModel.OnGet() in C:\Yudhaamanyu\Projects\DemoCode\SerilogDemoWithSeq\Pages\Index.cshtml.cs:line 26
+ HTTP "GET" "/" responded 200 in 227.6245 ms
+08/02/2021 13:36:51 Application Starting Up
+08/02/2021 13:36:56 You requested the Index Page.
+08/02/2021 13:36:56 We caught this exception in the Index Get call.
+System.Exception: This is our demo exception.
+   at SerilogDemoWithSeq.Pages.IndexModel.OnGet() in C:\Yudhaamanyu\Projects\DemoCode\SerilogDemoWithSeq\Pages\Index.cshtml.cs:line 26
+08/02/2021 13:36:56 HTTP "GET" "/" responded 200 in 232.1385 ms
+08/02/2021 13:46:13 Application Starting Up
+08/02/2021 13:46:20 You requested the Index Page.
+08/02/2021 13:46:20 We caught this exception in the Index Get call.
+System.Exception: This is our demo exception.
+   at SerilogDemoWithSeq.Pages.IndexModel.OnGet() in C:\Yudhaamanyu\Projects\DemoCode\SerilogDemoWithSeq\Pages\Index.cshtml.cs:line 26
+08/02/2021 13:46:21 HTTP "GET" "/" responded 200 in 204.9191 ms
+08/02/2021 13:47:56 HTTP "GET" "/Privacy" responded 200 in 10.1805 ms
+08/02/2021 14:19:23 Application Starting Up
+08/02/2021 14:19:42 You requested the Index Page.
+08/02/2021 14:19:42 We caught this exception in the Index Get call.
+System.Exception: This is our demo exception.
+   at SerilogDemoWithSeq.Pages.IndexModel.OnGet() in C:\Yudhaamanyu\Projects\DemoCode\SerilogDemoWithSeq\Pages\Index.cshtml.cs:line 26
+08/02/2021 14:19:42 HTTP "GET" "/" responded 200 in 204.7669 ms
+08/02/2021 14:19:44 HTTP "GET" "/Privacy" responded 200 in 9.5912 ms
+08/02/2021 14:21:10 You requested the Index Page.
+08/02/2021 14:21:10 We caught this exception in the Index Get call.
+System.Exception: This is our demo exception.
+   at SerilogDemoWithSeq.Pages.IndexModel.OnGet() in C:\Yudhaamanyu\Projects\DemoCode\SerilogDemoWithSeq\Pages\Index.cshtml.cs:line 26
+08/02/2021 14:21:10 HTTP "GET" "/" responded 200 in 6.6774 ms
+08/02/2021 14:21:24 HTTP "GET" "/Privacy" responded 200 in 1.6002 ms
+08/02/2021 14:22:37 Application Starting Up
+08/02/2021 14:22:44 HTTP "GET" "/Privacy" responded 200 in 134.1201 ms
+08/02/2021 14:22:52 You requested the Index Page.
+08/02/2021 14:22:52 We caught this exception in the Index Get call.
+System.Exception: This is our demo exception.
+   at SerilogDemoWithSeq.Pages.IndexModel.OnGet() in C:\Yudhaamanyu\Projects\DemoCode\SerilogDemoWithSeq\Pages\Index.cshtml.cs:line 26
+08/02/2021 14:22:52 HTTP "GET" "/" responded 200 in 57.4109 ms
+08/02/2021 17:53:14 Application Starting Up
+08/02/2021 17:53:54 You requested the Index Page.
+08/02/2021 17:53:54 We caught this exception in the Index Get call.
+System.Exception: This is our demo exception.
+   at SerilogDemoWithSeq.Pages.IndexModel.OnGet() in C:\Yudhaamanyu\Projects\DemoCode\SerilogDemoWithSeq\Pages\Index.cshtml.cs:line 26
+08/02/2021 17:53:54 HTTP "GET" "/" responded 200 in 360.1032 ms
+08/02/2021 17:53:55 HTTP "GET" "/Privacy" responded 200 in 24.6990 ms
+08/02/2021 17:55:19 You requested the Index Page.
+08/02/2021 17:55:19 We caught this exception in the Index Get call.
+System.Exception: This is our demo exception.
+   at SerilogDemoWithSeq.Pages.IndexModel.OnGet() in C:\Yudhaamanyu\Projects\DemoCode\SerilogDemoWithSeq\Pages\Index.cshtml.cs:line 26
+08/02/2021 17:55:19 HTTP "GET" "/" responded 200 in 12.2935 ms
+08/05/2021 15:26:08 Application Starting Up
+08/05/2021 15:26:17 You requested the Index Page.
+08/05/2021 15:26:17 We caught this exception in the Index Get call.
+System.Exception: This is our demo exception.
+   at SerilogDemoWithSeq.Pages.IndexModel.OnGet() in C:\Yudhaamanyu\Projects\DemoCode\SerilogDemoWithSeq\Pages\Index.cshtml.cs:line 26
+08/05/2021 15:26:17 HTTP "GET" "/" responded 200 in 318.8773 ms
