@@ -27,8 +27,8 @@ create table Community
 
 create table UserCommunity
 (	
-   id serial primary key not null,
-   user_id int not null references Users(user_id),
+	id serial primary key not null,
+	user_id int not null references Users(user_id),
 	community_id int not null references Community(community_id)
 );
 
