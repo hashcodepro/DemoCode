@@ -1,13 +1,8 @@
+*/bin/
+*/obj/
+
 .vscode/
 DapperDemo/.vscode/
-DapperDemo/bin/
-DapperDemo/obj/
-LoggingDemo/bin/
-LoggingDemo/obj/
-SerilogDemoWithSeq/bin/
-SerilogDemoWithSeq/obj/
 SerilogDemoWithSeq/log.json
 SerilogDemoWithSeq/*.txt
 SerilogDemoWithSeq/Logs/
-EFCoreDemo/bin/
-EFCoreDemo/obj/
